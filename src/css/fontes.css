@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'augustus';
+  src: url('../fontes/AUGUSTUS.TTF'); 
+}
+
+@font-face {
+  font-family: 'elfico';
+  src: url('../fontes/elvencommonspeak.ttf');
+}
+
+@font-face {
+  font-family: 'louvre';
+  /*OTF é suportado pela maioria dos navegadores mais modernos, menos o internet explorer */
+  src: url('../fontes/Louvre\ Extrude.ttf');
+}
+
+
+@font-face {
+  font-family: 'louvre1';
+  /*OTF é suportado pela maioria dos navegadores mais modernos, menos o internet explorer */
+  src: url('../fontes/Louvre1.otf');
+}
